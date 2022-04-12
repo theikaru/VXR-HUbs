@@ -1,2 +1,2 @@
 # VXR-HUbs
-Hello, Download VXR And Open Maybe Turn Off Antivirus Works For Me Though, So Once Your Done Open VXR.exe And Boom Your In!
+--Download Each Files Then Make A Folder And Put Them All In And Then Open VXR.exe, And Done!
